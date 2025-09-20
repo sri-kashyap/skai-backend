@@ -28,3 +28,4 @@ export class SupabaseService {
     return createClient(this.config.url, this.config.serviceRoleKey);
   }
 }
+

@@ -9,3 +9,4 @@ import supabaseConfig from '../config/supabase.config';
   exports: [SupabaseService],
 })
 export class SupabaseModule {}
+
